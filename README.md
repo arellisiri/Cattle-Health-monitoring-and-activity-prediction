@@ -10,5 +10,5 @@ Numpy, Pandas
 3. Now connect thingspeak to the colab file using thingspeak library.
 4. The predictions made will be displayed in excel sheet.
 ## Future Scope
-1.Building an app interface.
-2.Extending the project to manage large no. of cattle.
+1. Building an app interface.
+2. Extending the project to manage large no. of cattle.
